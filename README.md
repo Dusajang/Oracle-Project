@@ -41,13 +41,14 @@ https://www.canva.com/design/DAGWL8aA9wM/eHasd44113jA_WS11G5hEA/view?utm_content
 #### 주요 구현기능
 - 회원: 김선우
 - 상품: 송세호
-- 장바구니: 전재윤
-    - 상품 추가 
+    - 상품 목록 및 상품 페이지에서...
+    - 상품 추가
     - 가격 관리
-    - 물품 조회 
+    - 물품 조회
     - 수량 변경
     - 선택 여부
-    - 상품 제거 
+    - 상품 제거
+- 장바구니: 전재윤
 - 주문 결제: 원충희
 - 리뷰: 이시훈
 - 게시판: 송세호
@@ -55,5 +56,4 @@ https://www.canva.com/design/DAGWL8aA9wM/eHasd44113jA_WS11G5hEA/view?utm_content
 ---
 #### 추가 리팩토링/개발 예정
 JSP와 Servlet을 활용한 실물 웹사이트 구현<br>
-https://github.com/jyoons00/Ohora_Project_JSP.git<br>
-https://github.com/jyoons00/Ohora_Project_DB.git
+https://github.com/Dusajang/Ohora_Project_JSP.git<br>
